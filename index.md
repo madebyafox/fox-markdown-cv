@@ -1,18 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: AMY RAE FOX CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amy Rae Fox
+PostDoctoral Fellow, Massachusetts Institute of Technology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="amyfox@mit.edu">amyfox@mit.edu</a>
+| <a href="http://amyraefox.com">website</a>
 </div>
 
 
 ## Currently
-
 Standing on the shoulders of giants
 
 ### Specialized in
@@ -24,23 +23,37 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+## Academic Appointments
+
+`2022-2023`
+**Distinguished PostDoctoral Fellow — MIT CSAIL**  
+__Massachusetts Institute of Technology__, Cambridge, MA, USA.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022`
+**PhD Cognitive Science**  
+__University of California San Diego__, San Diego, CA, USA.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015`
+**MA Interdisciplinary Studies**  
+__California State University — Chico__, Chico, CA, USA.
 
-- Sizar
+`2015`
+**MSEd Instructional Design**  
+__Université Pierre Mendes France__, Grenoble, France.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2004`
+**BSc Computer Science**  
+__University of North Carolina at Chapel Hill__, Chapel Hill, NC, USA.
 
-- Fellow
 
 
+
+
+`2023-2024`
+**MA Interdisciplinary Studies**  
+__California State University — Chico__, Chico, CA, USA.
 
 ## Awards
 
@@ -58,7 +71,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +100,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
