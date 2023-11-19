@@ -48,13 +48,6 @@ __Université Pierre Mendes France__, Grenoble, France.
 __University of North Carolina at Chapel Hill__, Chapel Hill, NC, USA.
 
 
-
-
-
-`2023-2024`
-**MA Interdisciplinary Studies**  
-__California State University — Chico__, Chico, CA, USA.
-
 ## Awards
 
 `2012`
