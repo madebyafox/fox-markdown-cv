@@ -77,35 +77,37 @@ University of North Carolina _at_ Chapel Hill, Chapel Hill, NC, USA.
 
 ## TEACHING EXPERIENCE
 
-__INSTRUCTOR OF RECORD__ _UC SAN DIEGO_
+### __INSTRUCTOR OF RECORD__ 
+__UC SAN DIEGO__
 
-`FALL 2021` __COGS 126: Thinking with Computers__  
-`SS1 2021` __COGS 14B: Introduction to Statistical Analysis__  
-
-
-__TEACHING ASSISTANT__ _UC SAN DIEGO_
-
-__{ METHODS & STATISTICS }__  
-`xxxx,XXXX` __PSYC 60 : Statistics for Psychology__  
-`xxxx,XXXX` __COGS 14B : Introduction to Statistical Analysis__   
-`xxxx` __COGS 13 : Field Methods: Studying Cognition in the Wild__  
-
-__{ THEORY & PERSPECTIVES }__  
-`xxxx` __COGS 100 : Cyborgs, Now and in the Future__  
-`xxxx` __COGS 102A : Cognitive Perspectives__  
-`xxxx` __COGS 126: Thinking with Computers__  
-`xxxx` __COGS 160 : Sensemaking & Organizing__  
+`FALL 2021` COGS 126: Thinking with Computers  
+`SS1 2021` COGS 14B: Introduction to Statistical Analysis  
 
 
-__{ DESIGN, INTERACTION, AND PRACTICE }__  
-`xxxx` __COGS 10 : Cognitive Consequences of Technology__  
-`xxxx` __COGS 128 : Information Visualization__  
-`xxxx,XXXX` __COGS 187A : Information Architecture__  
-`xxxx` __COGS 187B : Practicum in Professional Web Design__  
-`xxxx` __COGS 121 : Human-Computer Interaction Programming__
+### __TEACHING ASSISTANT__ 
 
-__TEACHING ASSISTANT__ _CSU-CHICO_  
-`xxxx` __BADM 495 : Applied Strategic Decision Making__
+__UC SAN DIEGO__
+
+__METHODS & STATISTICS__  
+`xxxx,XXXX` PSYC 60 : Statistics for Psychology  
+`xxxx,XXXX` COGS 14B : Introduction to Statistical Analysis   
+`xxxx` COGS 13 : Field Methods: Studying Cognition in the Wild  
+
+__COGNITIVE THEORIES & APPLICATIONS__  
+`xxxx` COGS 100 : Cyborgs, Now and in the Future  
+`xxxx` COGS 102A : Cognitive Perspectives  
+`xxxx` COGS 160 : Sensemaking & Organizing   
+`xxxx` COGS 126: Thinking with Computers   
+`xxxx` COGS 10 : Cognitive Consequences of Technology  
+
+__DESIGN & INTERACTION__  
+`xxxx` COGS 128 : Information Visualization  
+`xxxx,XXXX` COGS 187A : Information Architecture  
+`xxxx` COGS 187B : Practicum in Professional Web Design  
+`xxxx` COGS 121 : Human-Computer Interaction Programming
+
+__CSU-CHICO__  
+`xxxx` BADM 495 : Applied Strategic Decision Making
 
 
 ## Extramural Grants 
@@ -145,13 +147,19 @@ United States Department of Education
 
 ## PROFESSIONAL SERVICE  
 
-### RESEARCH COMMUNITY
+### INTERNATIONAL SERVICE
 `2020-2024` DIAGRAMS Conference, Program Committee — Psychology & Education Track  
 `2022` DIAGRAMS Conference, Program Committee — Publicity Chair  
 `2020` ACM CHI, Associate Chair — Late Breaking Work  
 `2019` ACM Designing Interactive Systems, Program Committee — Local Co-Chair  
 `2019` ACM Creativity & Cognition, Program Committee — Local Co-Chair  
 `2019` ACM Creativity & Cognition, Program Committee — Art Event Coordinator
+
+### INSTITUTIONAL SERVICE
+
+UCSD Rady Business School Dean Selection Advisory Committee  
+UCSD Student Information Services Transformation Advisory Committee  
+EYH Expanding Your Horizons (Girls in STEM) — Progam Mentor  
 
 ### DEPARTMENTAL SERVICE
 
@@ -160,14 +168,6 @@ UCSD Cognitive Science Research Methods Training Assistant
 UCSD Cognitive Science Graduate Representative (to Department)  
 UCSD Cognitive Science Graduate Representative (to Graduate Student Association)  
 UCSD Cognitive Science Department Webmaster
-
-
-### INSTITUTIONAL SERVICE
-
-EYH Expanding Your Horizons (Girls in STEM) Progam Mentor
-UCSD Rady Business School Dean Selection Advisory Committee
-UCSD Student Information Services Transformation Advisory Committee
-
 
 ### AD-HOC REVIEWING
 
@@ -205,7 +205,7 @@ SciMed Solutions, Durham, NC
 `2011-2012` __(Higher Ed) Technologist,  Designer / Developer__  
 DUKE Talent Identifcation Program (TIP), Durham, NC
 
-`2009-2011` __(Higher Ed) Program Coordinator__  
+`2009-2011` __(Higher Ed) Technologist, Program Coordinator__  
 Robertson Scholars Leadership Program (Duke—UNC), Durham, NC
 
 `2004-2009` __Management & Technology Consultant__  
@@ -250,8 +250,7 @@ __Fox, A.R.__, Kaufman, R., Hollan, J.D. _Falling Down the Rabbit Hole: Explorat
 `2023` __Fox, A. R.__ (2023) Models and Theories in Graph Comprehension.   
 In _Visualization Psychology_, Albers Szafir, D., Borgo, R., Chen, M., Edwards, D.J., Fisher, B., Padilla, L. (eds). Springer, Cham. https://doi.org/10.1007/978-3-031-34738-2_2
 
-`2023` __Fox, A.R.__, Hollan, J.D. (2023). Visualization Psychology: Foundations for an Interdisciplinary Research Program.   
-In _Visualization Psychology_,   Albers Szafir, D., Borgo, R., Chen, M., Edwards, D.J., Fisher, B., Padilla, L. (eds). Springer, Cham. https://doi.org/10.1007/978-3-031-34738-2_9
+`2023` __Fox, A.R.__, Hollan, J.D. (2023). Visualization Psychology: Foundations for an Interdisciplinary Research Program. In _Visualization Psychology_,   Albers Szafir, D., Borgo, R., Chen, M., Edwards, D.J., Fisher, B., Padilla, L. (eds). Springer, Cham. https://doi.org/10.1007/978-3-031-34738-2_9
 
 
 ### [JOURNALS AND ARCHIVAL CONFERENCES]
@@ -271,14 +270,24 @@ In _Visualization Psychology_,   Albers Szafir, D., Borgo, R., Chen, M., Edwards
 
 `2019` __Fox, A. R.__, Hollan, J., Walker, CM. (2019). When Graph Comprehension is an Insight Problem. Proceedings of the Annual Meeting of The Cognitive Science Society 2019. Montreal, QC.
 
-`2016` Fox, A. R., van den Berg, M., & de Vries, E. (2016). Representing Sequence: The Infuence of Timeline Axis and Direction on Causal Reasoning in Litigation Law. Proceedings of the Annual Meeting of The Cognitive Science Society 2016. Philadelphia, PA.
+`2019` __Fox, A. R.__, Byrd, S., Ciston, S., Navarro, F., Kayser, H. (2019) The Burden of Selfhood. In Proceedings of the 2019 ACM Conference on Creativity and Cognition. San Diego, CA.
+
+`2016` __Fox, A. R.__, van den Berg, M., & de Vries, E. (2016). Representing Sequence: The Infuence of Timeline Axis and Direction on Causal Reasoning in Litigation Law. Proceedings of the Annual Meeting of The Cognitive Science Society 2016. Philadelphia, PA.
 
 
 ### [EXTENDED ABSTRACTS & POSTERS] 
 
-`2019` __Fox, A. R.__, Byrd, S., Ciston, S., Navarro, F., Kayser, H. (2019) The Burden of Selfhood. In Proceedings of the 2019 ACM Conference on Creativity and Cognition. San Diego, CA.
+`2023` __Fox, A. R.__ Can Diamond Plots Mitigate Causal Inferences from Correlational Data?. _Presented at Annual Meeting of the Psychonomics Society_, San Francisco, CA. 
+
+`2023` __Fox, A. R.__ Diamond Plots: An Evaluation. _Presented at Gordon Research Conference on Visualization in Science and Education_, Lewiston, Maine. 
+
+`2022` __Fox, A. R.__ Graphical Discovery: Transitions in Understanding a Novel Coordinate System. _Presented at Annual Meeting of the Psychonomics Society_, Boston, MA. 
+
+`2017` __Fox, A. R.__ Who Are We? Mapping Communities of Practice in Visual Communication. _Presented at Gordon Research Conference on Visualization in Science and Education_, Lewiston, Maine. 
 
 `2018` __Fox, A. R.__, Walker, CM, Hollan, J. (2018). Graphical Insight: How To Read an Unconventional Graph. In Proceedings of the European Association of Learning And Instruction (EARLI) — SIG 2 Text and Graph Comprehension. Freiburg, Germany. **BEST PAPER PRESENTATION AWARD**
+
+`2017` __Fox, A. R.__ Can we Scaffold Comprehension for Unconventional Graphs? _Presented at Gordon Research Conference on Visualization in Science and Education_, Lewiston, Maine. 
 
 `2015` Loker, S., de Vries, E., __Fox, A.R__ (2015). Dynamic vs. Static Visualizations for Learning Procedural and Declarative Information. _Annual Conference of the American Educational Research Association (AERA)._
 
@@ -296,9 +305,9 @@ In _Visualization Psychology_,   Albers Szafir, D., Borgo, R., Chen, M., Edwards
 
 ### [THESES & DISSERTATIONS]
 `2022` __DOCTORAL DISSERTATION__  
-Visualizing Time: The infuence of timeline axis and direction on causal reasoning in litigation law.  
-California State University - Chico. Chico, CA.  
-__Committee:__ Dr. Erica de Vries, Dr. Wolfgang Schotz, Dr. Neil Schwarts, and Dr. Martin van den Berg.
+Tales of Graphical Discovery: A Case Study at the Intersection of Graph Comprehension and Visualization Design. 
+University of California, San Diego. La Jolla, CA.  
+__Committee:__ Dr. Jim Hollan, Dr. David Kirsh, Dr. Philip Guo, Dr. William Bechtel, Dr. Caren Walker, Dr. Mary Hegarty (UCSB), Dr. Arvind Satyanarayan (MIT). 
 
 `2015` __MASTERS THESIS__  
 Visualizing Time: The infuence of timeline axis and direction on causal reasoning in litigation law.  
